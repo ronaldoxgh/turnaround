@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pas2Cs">
+</Property><Property Name="Solution File" Value="C:\Projetos\Pas2CS\Pas2Cs.sln">
+</Property><Property Name="User Options File" Value="C:\Projetos\Pas2CS\Pas2Cs.suo">
+</Property><Property Name="Date" Value="segunda-feira, 13 de fevereiro de 2012">
+</Property><Property Name="Time" Value="19:46">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Pas2Cs.sln" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\Pas2Cs.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Pas2Cs.suo" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\Pas2Cs.suo">
+</Event><Event ErrorLevel="0" Project="Utils" Source="Utils\Utils.csproj" Description="Project file successfully backed up as C:\Projetos\Pas2CS\Backup\Utils\Utils.csproj">
+</Event><Event ErrorLevel="0" Project="Utils" Source="Utils\MapMatch.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\Utils\MapMatch.cs">
+</Event><Event ErrorLevel="0" Project="Utils" Source="Utils\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\Utils\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Utils" Source="Utils\StringParsers.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\Utils\StringParsers.cs">
+</Event><Event ErrorLevel="0" Project="Utils" Source="Utils\Utils.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Utils" Source="Utils\Utils.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PasCode" Source="PasCode\PasCode.csproj" Description="Project file successfully backed up as C:\Projetos\Pas2CS\Backup\PasCode\PasCode.csproj">
+</Event><Event ErrorLevel="0" Project="PasCode" Source="PasCode\PasElements.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\PasCode\PasElements.cs">
+</Event><Event ErrorLevel="0" Project="PasCode" Source="PasCode\PasDirectives.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\PasCode\PasDirectives.cs">
+</Event><Event ErrorLevel="0" Project="PasCode" Source="PasCode\PasReaders.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\PasCode\PasReaders.cs">
+</Event><Event ErrorLevel="0" Project="PasCode" Source="PasCode\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\PasCode\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PasCode" Source="PasCode\PasCode.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PasCode" Source="PasCode\PasCode.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CsCode" Source="CsCode\CsCode.csproj" Description="Project file successfully backed up as C:\Projetos\Pas2CS\Backup\CsCode\CsCode.csproj">
+</Event><Event ErrorLevel="0" Project="CsCode" Source="CsCode\CsElements.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\CsCode\CsElements.cs">
+</Event><Event ErrorLevel="0" Project="CsCode" Source="CsCode\CsWriters.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\CsCode\CsWriters.cs">
+</Event><Event ErrorLevel="0" Project="CsCode" Source="CsCode\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\CsCode\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CsCode" Source="CsCode\CsCode.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CsCode" Source="CsCode\CsCode.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DelphiToCSharp" Source="DelphiToCSharp\DelphiToCSharp.csproj" Description="Project file successfully backed up as C:\Projetos\Pas2CS\Backup\DelphiToCSharp\DelphiToCSharp.csproj">
+</Event><Event ErrorLevel="0" Project="DelphiToCSharp" Source="DelphiToCSharp\Converter.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\DelphiToCSharp\Converter.cs">
+</Event><Event ErrorLevel="0" Project="DelphiToCSharp" Source="DelphiToCSharp\Program.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\DelphiToCSharp\Program.cs">
+</Event><Event ErrorLevel="0" Project="DelphiToCSharp" Source="DelphiToCSharp\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Projetos\Pas2CS\Backup\DelphiToCSharp\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DelphiToCSharp" Source="DelphiToCSharp\DelphiToCSharp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DelphiToCSharp" Source="DelphiToCSharp\DelphiToCSharp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pas2Cs.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Pas2Cs.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Utils" Source="Utils\Utils.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PasCode" Source="PasCode\PasCode.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CsCode" Source="CsCode\CsCode.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DelphiToCSharp" Source="DelphiToCSharp\DelphiToCSharp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
